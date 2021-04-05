@@ -7,7 +7,6 @@
   - [基础](/blockset/basic)
   - [绳索](/blockset/rope)
   - [物理](/blockset/physics)
-  - [对玩家来说盲视的关卡](/blockset/badLevel)
 - [物体](/objects/)
   - [平台](/objects/platform)
   - [生活物品](/objects/realistic)
@@ -15,4 +14,3 @@
   - [魔法](/objects/magics/)
 - [发布关卡](/publish)
 - [某些 Bug 可能不是 Bug](/troubles)
-- [针对“对玩家来说盲视的关卡”的关卡的处理方式](/ban)

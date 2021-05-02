@@ -1,11 +1,10 @@
 - [开始阅读之前](/)
-- [创建和管理关卡草稿](/profiles)
+<!-- - [创建和管理关卡草稿](/profiles) -->
 - [自动保存策略](/autosave)
 - [网格约束](/grid)
 - [砖块轨迹计算](/trajectory)
 - [砖块组](/blockset/)
   - [基础](/blockset/basic)
-  - [绳索](/blockset/rope)
   - [物理](/blockset/physics)
 - [物体](/objects/)
   - [平台](/objects/platform)
@@ -15,3 +14,4 @@
 - [发布关卡](/publish)
 - [某些 Bug 可能不是 Bug](/troubles)
 - [官方网站](https://sbmax.nine00.com)
+- [ROADMAP](/roadmap)

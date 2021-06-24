@@ -13,4 +13,5 @@
   - [魔法](/objects/magics/)
 - [发布关卡](/publish)
 - [某些 Bug 可能不是 Bug](/troubles)
+- [官方网站](https://sbmax.nine00.com)
 - [ROADMAP](/roadmap)

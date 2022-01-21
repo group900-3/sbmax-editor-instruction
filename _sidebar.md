@@ -11,6 +11,7 @@
   - [生活物品](/objects/realistic)
   - [装置](/objects/gadget)
   - [魔法](/objects/magics/)
+  - [电工包](/objects/eunit)
 - [发布关卡](/publish)
 - [某些 Bug 可能不是 Bug](/troubles)
 - [官方网站](https://sbmax.nine00.com)
